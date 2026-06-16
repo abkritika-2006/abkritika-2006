@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Kritika Sharma 👋
+
+🎓 B.Tech Information Technology Student at NIET
+💻 Aspiring Software Engineer
+🌱 Currently learning Spring Boot, DSA, and AI Agent Development
+🤖 AI Virtual Intern at ICT Academy
+🏆 Smart India Hackathon 2025 Participant
+
+## Technical Skills
+- Java
+- Python
+- C
+- JavaScript
+- SQL
+- PHP
+- Spring Boot
+- HTML/CSS
+
+## Current Project
+Interview Preparation Platform using Spring Boot
+
+## Connect with Me
+LinkedIn: linkedin.com/in/kritika-sharma-842586319
