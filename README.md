@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 🌱 Currently learning Spring Boot, DSA, and AI Agent Development
 🤖 AI Virtual Intern at ICT Academy
 🏆 Smart India Hackathon 2025 Participant
+📚 Currently improving my Data Structures & Algorithms skills and exploring AI Agent Development
 
 ## Technical Skills
 - Java
